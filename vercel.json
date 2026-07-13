@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "tetris.html",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/tetris.html"
+    }
+  ]
+}

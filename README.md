@@ -54,6 +54,12 @@ Open `tetris.html` in your browser to play.
 
 - Play here: https://tetris-woad-seven.vercel.app
 
+## Vercel
+
+This project uses Vercel for static deployment. The `vercel.json` file configures the site to serve `tetris.html` at the root URL.
+
+To enable automatic deploys from GitHub, connect the repository to Vercel in the Vercel dashboard and use the `main` branch as the production branch.
+
 ## Repository
 
 This repository is configured as the `tetris` GitHub repository for the authenticated user.
