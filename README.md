@@ -52,6 +52,8 @@ The game supports multiple selectable themes, including:
 
 Open `tetris.html` in your browser to play.
 
+- Play here: https://tetris-woad-seven.vercel.app
+
 ## Repository
 
 This repository is configured as the `tetris` GitHub repository for the authenticated user.
